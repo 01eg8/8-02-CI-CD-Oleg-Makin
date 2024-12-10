@@ -60,12 +60,12 @@
 ### Задание 1
 
 
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2016-39-16.png
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2016-39-30.png
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2016-39-54.png
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2016-40-31.png
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2016-40-48.png
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2016-41-16.png
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2016-39-16.png)
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2016-39-30.png)
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2016-39-54.png)
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2016-40-31.png)
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2016-40-48.png)
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2016-41-16.png)
 
 
 ---
@@ -73,26 +73,26 @@ https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%2
 ### Задание 2
 
 
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2018-26-43.png
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2018-26-55.png
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2018-27-49.png
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2018-28-12.png
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2018-28-23.png
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2018-26-43.png)
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2018-26-55.png)
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2018-27-49.png)
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2018-28-12.png)
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-09%2018-28-23.png)
 
 
 ### Задание 3
 
 
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-10%2019-53-06.png
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-10%2019-53-40.png
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-10%2019-56-09.png
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-10%2019-56-22.png
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-10%2019-53-06.png)
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-10%2019-53-40.png)
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-10%2019-56-09.png)
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-10%2019-56-22.png)
 
 
 
 ### Задание 4
 
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-10%2020-00-50.png
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-10%2020-02-39.png
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-10%2020-02-55.png
-https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-10%2020-03-11.png
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-10%2020-00-50.png)
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-10%2020-02-39.png)
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-10%2020-02-55.png)
+![img](https://github.com/01eg8/8-02-CI-CD-Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-10%2020-03-11.png)
